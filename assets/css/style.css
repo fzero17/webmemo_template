@@ -1,2 +1,4 @@
-/* Import the SCSS file */
-@import "../_sass/webmemo_template.scss";
+---
+---
+
+@import "{{ site.theme }}";
