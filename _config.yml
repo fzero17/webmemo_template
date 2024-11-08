@@ -1,5 +1,5 @@
-title: My Jekyll Theme
+title: Test
 description: >- # this means to ignore newlines until "baseurl:"
   A simple and clean Jekyll theme.
 baseurl: "" # the subpath of your site, e.g. /blog
-remote_theme: minima
+remote_theme: cayman
